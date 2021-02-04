@@ -7,6 +7,7 @@ int main() {
     printf("%d\n",lista_ptr[0]);
     printf("%d\n",*lista_arr);
     printf("%d\n",*lista_ptr);
+    return 0;
 
 }
   
